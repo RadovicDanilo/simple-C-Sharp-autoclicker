@@ -1,0 +1,16 @@
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.exe
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.deps.json
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.runtimeconfig.json
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.runtimeconfig.dev.json
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.dll
+C:\Users\danil\Desktop\Apps\auto clicker\bin\Debug\netcoreapp3.1\auto clicker.pdb
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto_clicker.Form1.resources
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.AssemblyInfo.cs
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.dll
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.pdb
+C:\Users\danil\Desktop\Apps\auto clicker\obj\Debug\netcoreapp3.1\auto clicker.genruntimeconfig.cache
